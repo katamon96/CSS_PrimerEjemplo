@@ -46,6 +46,12 @@ body .ejhg .dummy{
     height: 90%;
     background-color: blueviolet;
 }
+
+body .ejhg .dummy p{
+    font-size: 2rem;
+    color: coral;
+}
+
 .ejhg > p{
     background-color: aquamarine;
     border: solid black 5px;
